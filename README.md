@@ -1,4 +1,4 @@
-<h1 align="center">Data and Cloud Engineer</h1>
+<h1 align="center">Data Analyst and Cloud Engineer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+AI-powered+data+tools;Electronics+%26+Telecom+%2B+AI%2FData+Science;Turning+data+into+decisions" alt="Typing SVG" />
