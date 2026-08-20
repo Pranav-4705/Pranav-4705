@@ -68,4 +68,4 @@ Hi, I'm Pranav 👋
 
 ---
 
-<p align="center">📫 Reach me at: <em>your-email@example.com</em></p>
+<p align="center">📫 Reach me at: <em>work.pranav4705@gmail.com</em></p>
